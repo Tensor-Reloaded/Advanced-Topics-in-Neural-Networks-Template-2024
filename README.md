@@ -21,7 +21,7 @@ conda config --add channels conda-forge
 2. Install PyTorch 2.4.1+ from [pytorch.org](https://pytorch.org/get-started/locally/) using `conda` or `pip`, depending on your environment. 
     * Choose the Stable Release, choose your OS, select Conda or Pip and your compute platform. For Linux and Windows, CUDA or CPU builds are available, while for Mac, only builds with CPU and MPS acceleration.
     * Example CPU: ```conda install pytorch torchvision torchaudio cpuonly -c pytorch```.
-3. Install Tensorboard and W
+3. Install Tensorboard and W&B
     * `conda install -c conda-forge tensorboard wandb`
 4. Install Matplotlib.
      * `conda install conda-forge::matplotlib`
