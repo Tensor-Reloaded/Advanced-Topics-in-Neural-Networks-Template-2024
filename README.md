@@ -40,4 +40,6 @@ conda config --add channels conda-forge
   
 ## Table of contents
 
+* [Lab01](./Lab01): Tensor Operations (Homework 1: Multi Layer Perceptron + Backpropagation)
+
 ## [2023 archive](https://github.com/Tensor-Reloaded/Advanced-Topics-in-Neural-Networks-Template-2023)
