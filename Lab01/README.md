@@ -18,11 +18,14 @@ For self-study (all students):
 * [https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
 Advanced (for students who want to learn more):
+* Advanced Benchmarking in PyTorch: https://pytorch.org/tutorials/recipes/recipes/benchmark.html
 * TorchScript (PyTorch jit): https://pytorch.org/docs/stable/jit.html
 * PyTorch jit trace: https://pytorch.org/docs/stable/generated/torch.jit.trace.html
 * PyTorch jit script: https://pytorch.org/docs/stable/generated/torch.jit.script.html#torch.jit.script
-* Pytorch compile: https://pytorch.org/tutorials/intermediate/torch_compile_tutorial.html
+* PyTorch compile: https://pytorch.org/tutorials/intermediate/torch_compile_tutorial.html
   * `torch.compile` does not work on Windows systems!
+* PyTorch compile deep dive: https://pytorch.org/docs/stable/torch.compiler_dynamo_deepdive.html
+
 
 ***
 References:

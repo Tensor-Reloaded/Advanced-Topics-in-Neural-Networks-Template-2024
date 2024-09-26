@@ -12,6 +12,7 @@ For self-study (all students):
   * [Neural Networks (chapter 1 - chapter 4)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (animated introduction to neural networks and backpropagation)
   * [Backpropagation example, from scratch](https://drive.google.com/file/d/11pFnI-NvGjAPgBb2nZKVj2dtE3dVI8qe/view)
 * From this lab:
+  * [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
   * [But what is a convolution?](https://www.youtube.com/watch?v=KuXjwB4LzSA) (convolution example; convolutions in image processing; convolutions and polynomial multiplication; FFT)
   * https://paperswithcode.com/method/1x1-convolution
 
