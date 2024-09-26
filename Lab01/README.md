@@ -7,7 +7,7 @@ Lab Notebooks:
 
 ***
 Homework 1:
-[Homework1.pdf](./Assignment.pdf)
+[Homework1.pdf](https://drive.google.com/file/d/1sicG9esFicBtX5_YwfvdEhYo4PaoUjCM/view)
 
 ***
 For self-study (all students):
