@@ -16,7 +16,6 @@ For self-study (all students):
 
 Advanced (for students who want to learn more):
 * `pin_memory` & `non_blocking=True`:
-   * https://pytorch.org/docs/stable/notes/cuda.html#use-pinned-memory-buffers
    * Pinning memory in DataLoaders: https://pytorch.org/docs/stable/notes/cuda.html#use-pinned-memory-buffers
    * How does pinned memory actually work: https://developer.nvidia.com/blog/how-optimize-data-transfers-cuda-cc/ 
    * Also see this discussion: https://discuss.pytorch.org/t/should-we-set-non-blocking-to-true/38234/4
