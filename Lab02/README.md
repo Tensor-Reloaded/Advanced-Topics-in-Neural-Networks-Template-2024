@@ -22,4 +22,10 @@ Advanced (for students who want to learn more):
 
 ***
 References:
- - TODO
+ - CIFAR-100: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
+ - DataLoader: https://pytorch.org/docs/stable/data.html#torch.utils.data.DataLoader
+ - Dataset: https://pytorch.org/docs/stable/data.html#torch.utils.data.Dataset
+ - Datasets & DataLoaders example: https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
+ - TorchVision transforms: https://pytorch.org/vision/stable/transforms.html
+ - TorchVision transforms getting started: https://pytorch.org/vision/main/auto_examples/transforms/plot_transforms_getting_started.html
+ - TorchVision examples: https://pytorch.org/vision/stable/auto_examples/transforms/plot_transforms_illustrations.html#sphx-glr-auto-examples-transforms-plot-transforms-illustrations-py
