@@ -35,8 +35,9 @@ conda config --add channels conda-forge
    * [Neural Networks (chapter 1 - chapter 4)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (animated introduction to neural networks and backpropagation)
 - Convolutions:
    * [But what is a convolution?](https://www.youtube.com/watch?v=KuXjwB4LzSA) (convolution example; convolutions in image processing; convolutions and polynomial multiplication; FFT)
- - Transformers:
+- Transformers:
    * [Neural Networks (chapter 5 - chapter 7)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (GPT; visual explanation of attention; LLMs)
+- Also see [Resources.md](https://github.com/Tensor-Reloaded/Advanced-Topics-in-Neural-Networks-Template-2024/blob/main/Resources.md)
   
 ## Table of contents
 
