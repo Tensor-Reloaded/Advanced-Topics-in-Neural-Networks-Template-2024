@@ -3,6 +3,7 @@
 ***
 Lab scripts: 
 * How to train a perceptron on MNIST with PyTorch: [perceptron_example_mnist.py](./perceptron_example_mnist.py)
+* Training example for downsampled grayscale CIFAR-10: [downsampled_cifar_training.py](./downsampled_cifar_training.py)
 
 ***
 Homework 2: [Kaggle Competition](https://www.kaggle.com/t/79d63f85ccd848068578901502605679)
@@ -22,7 +23,7 @@ Advanced (for students who want to learn more):
 
 ***
 References:
- - CIFAR-100: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
+ - CIFAR-10 and CIFAR-100: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
  - DataLoader: https://pytorch.org/docs/stable/data.html#torch.utils.data.DataLoader
  - Dataset: https://pytorch.org/docs/stable/data.html#torch.utils.data.Dataset
  - Datasets & DataLoaders example: https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
