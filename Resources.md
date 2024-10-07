@@ -1,5 +1,24 @@
-### A good starting resource presenting neural networks from backpropagation to large language models. 
-1. [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+### Linear algebra:
+1. [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (linear transformations; matrix multiplication)
+2. [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) (derivatives; chain rule)
+
+***
+
+### We strongly recommend watching this to understand Backpropagation.
+1. [Neural Networks (chapter 1 - chapter 4)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (animated introduction to neural networks and backpropagation)
+
+***
+
+### Intro to convolutions.
+1. [But what is a convolution?](https://www.youtube.com/watch?v=KuXjwB4LzSA) (convolution example; convolutions in image processing; convolutions and polynomial multiplication; FFT)
+
+***
+
+### A good starting point for understanding Large Language Models.
+1. [Neural Networks (chapter 5 - chapter 7)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (GPT; visual explanation of attention; LLMs)
+
+***
+## Papers explained
 
 ### A good list of videos to present some classic papers up to SOTA methods in deep learning which help to understand how things work. We recommend to watch them in order, as they are somewhat correlated.
 1. [[Classic] ImageNet Classification with Deep Convolutional Neural Networks](https://youtu.be/Nq3auVtvd9Q)
