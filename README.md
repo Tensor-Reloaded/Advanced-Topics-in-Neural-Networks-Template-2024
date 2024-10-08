@@ -42,6 +42,6 @@ conda config --add channels conda-forge
 ## Table of contents
 
 * [Lab01](./Lab01): Tensor Operations (Homework 1: Multi Layer Perceptron + Backpropagation)
-* [Lab02](./Lab02): Convolutions
+* [Lab02](./Lab02): Convolutions, DataLoaders, Datasets, Data Augmentation techniques (Homework 2: Kaggle competition on CIFAR-100 with VGG-16)
 
 ## [2023 archive](https://github.com/Tensor-Reloaded/Advanced-Topics-in-Neural-Networks-Template-2023)
