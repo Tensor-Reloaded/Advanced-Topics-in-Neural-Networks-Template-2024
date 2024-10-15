@@ -30,3 +30,4 @@
 7. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://www.youtube.com/watch?v=TrdevFK_am4)
 8. [Image GPT: Generative Pretraining from Pixels](https://www.youtube.com/watch?v=YBlNQK0Ao6g)
 9. [DINO: Emerging Properties in Self-Supervised Vision Transformers](https://www.youtube.com/watch?v=h3ij3F3cPIk)
+10. [Perceiver: General Perception with Iterative Attention](https://www.youtube.com/watch?v=P_xeshTnPZg)
