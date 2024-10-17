@@ -32,3 +32,4 @@
 9. [DINO: Emerging Properties in Self-Supervised Vision Transformers](https://www.youtube.com/watch?v=h3ij3F3cPIk)
 10. [Perceiver: General Perception with Iterative Attention](https://www.youtube.com/watch?v=P_xeshTnPZg)
 11. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://www.youtube.com/watch?v=9dSkvxS2EB0)
+12. [xLSTM: Extended Long Short-Term Memory](https://www.youtube.com/watch?v=0OaEv1a5jUM)
