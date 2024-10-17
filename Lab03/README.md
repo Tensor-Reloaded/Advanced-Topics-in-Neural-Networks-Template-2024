@@ -11,16 +11,16 @@ Homework 3:
 For self-study (all students):
 * Tensorboard: https://pytorch.org/docs/stable/tensorboard.html
 * Weights and Biases: https://docs.wandb.ai/guides/integrations/pytorch
+* AlexNet:
+   - https://www.cs.toronto.edu/~hinton/absps/imagenet.pdf
+   - [[Classic] ImageNet Classification with Deep Convolutional Neural Networks](https://youtu.be/Nq3auVtvd9Q)
+* ResNet:
+   - https://arxiv.org/abs/1512.03385
+   - [[Classic] Deep Residual Learning for Image Recognition](https://www.youtube.com/watch?v=GWt6Fu05voI)
 
 Advanced (for students who want to learn more):
 * TODO
 
 
 ***
-References:
- - AlexNet:
-   - https://www.cs.toronto.edu/~hinton/absps/imagenet.pdf
-   - [[Classic] ImageNet Classification with Deep Convolutional Neural Networks](https://youtu.be/Nq3auVtvd9Q)
- - ResNet:
-   - https://arxiv.org/abs/1512.03385
-   - [[Classic] Deep Residual Learning for Image Recognition](https://www.youtube.com/watch?v=GWt6Fu05voI)
+
