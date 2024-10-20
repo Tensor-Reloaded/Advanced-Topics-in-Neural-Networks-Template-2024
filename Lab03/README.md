@@ -17,6 +17,9 @@ For self-study (all students):
 * ResNet:
    - https://arxiv.org/abs/1512.03385
    - [[Classic] Deep Residual Learning for Image Recognition](https://www.youtube.com/watch?v=GWt6Fu05voI)
+* PyTorch image models
+   - https://huggingface.co/docs/timm/index
+   - https://huggingface.co/models?library=timm&sort=trending
 
 Advanced (for students who want to learn more):
 * TODO
