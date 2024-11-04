@@ -10,6 +10,8 @@ Advanced (for students who want to learn more):
 * R-CNN: https://arxiv.org/abs/1311.2524v5
 * Faster R-CNN: https://arxiv.org/pdf/1506.01497.pdf
 * YOLO: https://arxiv.org/abs/1506.02640
+* U-Net: https://arxiv.org/abs/1505.04597
+* 3D U-Net: https://arxiv.org/abs/1606.06650
 * Model Soup: https://arxiv.org/abs/2203.05482
 
 
