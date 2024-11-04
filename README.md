@@ -45,6 +45,6 @@ conda config --add channels conda-forge
 * [Lab02](./Lab02): Convolutions, DataLoaders, Datasets, Data Augmentation techniques (Homework 2: Kaggle competition on CIFAR-100 with VGG-16)
 * [Lab03](./Lab03): ResNets (Homework 3: Implement a complete training pipeline with PyTorch)
 * [Lab04](./Lab04): Training pipeline implementation
-* [Lab05](./Lab05): R-CNN, Fast R-CNN, Faster R-CNN, YOLO, U-Net, Ensemble methods, Model Soup 
+* [Lab05](./Lab05): R-CNN, Fast R-CNN, Faster R-CNN, YOLO, U-Net, 3D U-Net, Ensemble methods, Model Soup 
 
 ## [2023 archive](https://github.com/Tensor-Reloaded/Advanced-Topics-in-Neural-Networks-Template-2023)
