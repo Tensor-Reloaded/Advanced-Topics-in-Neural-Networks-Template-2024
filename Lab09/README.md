@@ -1,6 +1,9 @@
 ## Lab 9
 
 ***
+### Project: [ATNN_2024_Assignment_4.pdf](./ATNN_2024_Assignment_4.pdf)
+
+***
 For self-study (all students):
 * Annotated deep learning papers: https://github.com/labmlai/annotated_deep_learning_paper_implementations
 * LSTM: 
@@ -13,6 +16,7 @@ Advanced (for students who want to learn more):
 - LSTM paper: https://deeplearning.cs.cmu.edu/F23/document/readings/LSTM.pdf
 - Attention Is All You Need: https://arxiv.org/abs/1706.03762
 - Attention Is ALl You Need video: https://www.youtube.com/watch?v=iDulhoQ2pro
+
 
 ***
 References:
