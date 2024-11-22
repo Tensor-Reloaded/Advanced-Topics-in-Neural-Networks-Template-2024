@@ -3,6 +3,10 @@
 ***
 ### Project: [ATNN_2024_Assignment_4.pdf](./ATNN_2024_Assignment_4.pdf)
 
+1. [Noisy CIFAR](https://www.kaggle.com/t/087d976c4de44155b82ee6312a2f5ad1) 
+2. [LLM-based Subject Tagging](https://sites.google.com/view/llms4subjects)
+3. [Mu-SHROOM, the Multilingual Shared-task on Hallucinations](https://helsinki-nlp.github.io/shroom)
+
 ***
 For self-study (all students):
 * Annotated deep learning papers: https://github.com/labmlai/annotated_deep_learning_paper_implementations
