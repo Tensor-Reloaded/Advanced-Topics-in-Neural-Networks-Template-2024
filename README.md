@@ -49,6 +49,7 @@ conda config --add channels conda-forge
 * [Lab07](./Lab07): Self-Supervised Learning, Autoencoders, VAE, GAN, Diffusion
 * [Lab09](./Lab09): Sequence to sequence models, RNN, LSTM, Attention Is All You Need
 * [Lab10](./Lab10): Multi-Headed Attention, Transformers, BERT, GPT, ViT
+* [Lab11](./Lab11): Generalization, Batch Sizes, SAM, Benchmarks
 
 
 ## [2023 archive](https://github.com/Tensor-Reloaded/Advanced-Topics-in-Neural-Networks-Template-2023)
