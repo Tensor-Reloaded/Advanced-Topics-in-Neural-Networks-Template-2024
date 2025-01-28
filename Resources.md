@@ -33,3 +33,4 @@
 10. [Perceiver: General Perception with Iterative Attention](https://www.youtube.com/watch?v=P_xeshTnPZg)
 11. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://www.youtube.com/watch?v=9dSkvxS2EB0)
 12. [xLSTM: Extended Long Short-Term Memory](https://www.youtube.com/watch?v=0OaEv1a5jUM)
+13. [DeepSeek-RL Math](https://www.youtube.com/watch?v=bAWV_yrqx4w)
