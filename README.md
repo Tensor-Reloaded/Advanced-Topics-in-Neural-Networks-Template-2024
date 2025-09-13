@@ -53,4 +53,4 @@ conda config --add channels conda-forge
 
 
 ## [2023 archive](https://github.com/Tensor-Reloaded/Advanced-Topics-in-Neural-Networks-Template-2023)
-## [ATNN 2025 TODO](https://github.com/Tensor-Reloaded/Advanced-Topics-in-Neural-Networks-Template-2025)
+## [ATNN 2025](https://github.com/Tensor-Reloaded/Advanced-Topics-in-Neural-Networks-Template-2025)
